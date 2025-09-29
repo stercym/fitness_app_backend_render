@@ -1,8 +1,8 @@
 """initial fitness app
 
-Revision ID: 7e3f0f8cab99
+Revision ID: d5f65aa96610
 Revises: 
-Create Date: 2025-09-29 22:09:46.302490
+Create Date: 2025-09-29 22:30:17.645034
 
 """
 from alembic import op
@@ -10,7 +10,7 @@ import sqlalchemy as sa
 
 
 # revision identifiers, used by Alembic.
-revision = '7e3f0f8cab99'
+revision = 'd5f65aa96610'
 down_revision = None
 branch_labels = None
 depends_on = None
